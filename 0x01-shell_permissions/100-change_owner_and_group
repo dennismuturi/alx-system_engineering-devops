@@ -1,2 +1,2 @@
 #!/bin/bash
-chown -R vincent chgroup staff ./ 
+chown -R vincent:staff 
